@@ -9,7 +9,8 @@ if número_inteiro.isdigit():
 
         print(f'{número_inteiro} é ímpar')
 
-
+else:
+    print('Isso não é um número inteiro.')
 
 
 
